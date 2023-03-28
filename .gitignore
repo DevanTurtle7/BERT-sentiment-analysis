@@ -2,3 +2,7 @@ __pycache__
 **/__pycache__
 aclImdb_v1.tar.gz
 aclImdb
+bin
+lib
+pyvenv.cfg
+share
